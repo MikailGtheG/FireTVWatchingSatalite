@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="batman.tk" tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/Batman-Logo-2016-2018.png" group-title="Undefined",MADEBYGDERD
+#EXTINF:-1 tvg-id="batman.tk" tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/Batman-Logo-2016-2018.png" group-title="Undefined",MADEBYGDERG
 http://185.234.111.229:8000/play/a05a
 #EXTINF:-1 tvg-id="360.tr" tvg-logo="https://i.imgur.com/agn47sQ.png" group-title="News",360 (1080p)
 http://185.234.111.229:8000/play/a05a
