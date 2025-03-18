@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Kara Murat TV" tvg-logo="https://raw.githubusercontent.com/MikailGtheG/FireTVWatchingSatalite/refs/heads/main/icon.png" group-title="Kendimizin", Kara Murat TV
+#EXTINF:-1 tvg-id="Kara Murat TV" tvg-logo="https://raw.githubusercontent.com/MikailGtheG/FireTVWatchingSatalite/refs/heads/main/icons/KaraMuratTV.png" group-title="Kendimizin", Kara Murat TV
 plugin://plugin.video.youtube/play/?playlist_id=PLeDgbjJKjmH_LOaA_NmEBa3gxp6nDzmh4&play=1&order=random&repeat=playlist
+#EXTINF:-1 tvg-id="Saban TV" tvg-logo="https://raw.githubusercontent.com/MikailGtheG/FireTVWatchingSatalite/refs/heads/main/icons/SabanTV.png" group-title="Kendimizin", Saban TV
+plugin://plugin.video.youtube/play/?playlist_id=PLeDgbjJKjmH_eotjtA8nF08-opQ8I2nKS&play=1&order=random&repeat=playlist
