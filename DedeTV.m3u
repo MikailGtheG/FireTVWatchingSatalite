@@ -5,3 +5,5 @@ plugin://plugin.video.youtube/play/?playlist_id=PLeDgbjJKjmH_LOaA_NmEBa3gxp6nDzm
 plugin://plugin.video.youtube/play/?playlist_id=PLeDgbjJKjmH_eotjtA8nF08-opQ8I2nKS&play=1&order=random&repeat=playlist
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png" group-title="Undefined",TRT 1 (1080p)
 http://185.234.111.229:8000/play/a00c
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="News",A Haber
+https://c.fulltvizle.com/ahaber/index.m3u8
